@@ -1,0 +1,31 @@
+* {
+  padding: 10px;
+  margin: 10px;
+}
+div.table {
+  border: 2px orangered solid;
+  min-width: 100px;
+  min-height: 100px;
+}
+div.header {
+  display: inline;
+}
+/* div {
+  display: inline;
+}
+div.header {
+  display: block;
+} */
+.required-field {
+  outline-color: red;
+  border-color: red;
+}
+.hide {
+  visibility: hidden;
+}
+label {
+  width: 100vw;
+  color: red;
+  font-weight: bolder;
+  font-size: x-large;
+}
